@@ -45,7 +45,7 @@ SOCIAL = (('linkedin', 'https://www.linkedin.com/in/felixpm15/'),
 
 DEFAULT_PAGINATION = False
 
-THEME = "flex"
+THEME = "Flex"
 
 CC_LICENSE = {
     'name': 'Creative Commons Attribution-ShareAlike',
