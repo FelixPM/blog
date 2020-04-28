@@ -3,11 +3,12 @@
 from __future__ import unicode_literals
 from datetime import datetime
 
-AUTHOR = 'Felix'
-SITENAME = 'Felix Perez Marquez'
-SITEURL = ''
-SITETITLE = 'Félix Pérez Márquez'
-SITESUBTITLE = 'Analista Programador'
+AUTHOR = 'Félix Pérez Márquez'
+SITENAME = AUTHOR
+SITEURL = 'http://www.felixpm.cl'
+SITETITLE = AUTHOR
+SITESUBTITLE = 'Computer Scientist'
+SITELOGO = "/images/profile.png"
 
 PATH = 'content'
 
@@ -25,10 +26,10 @@ AUTHOR_FEED_RSS = None
 
 
 # Blogroll
-LINKS = ( ('Pluralsight', 'https://app.pluralsight.com/profile/FelixPM'),
-          ('Coursera', 'https://www.coursera.org/user/e31ef62fb3c3cd3b61aa1a782a9bd306'),
-          ('Qwiklabs', 'https://www.qwiklabs.com/public_profiles/1d3676ac-6dcc-48ff-8418-30f227a3af8a'),
-          )
+LINKS = (('Pluralsight', 'https://app.pluralsight.com/profile/FelixPM'),
+         ('Coursera', 'https://www.coursera.org/user/e31ef62fb3c3cd3b61aa1a782a9bd306'),
+         ('Qwiklabs', 'https://www.qwiklabs.com/public_profiles/1d3676ac-6dcc-48ff-8418-30f227a3af8a'),
+         )
 
 # Social widget
 SOCIAL = (('linkedin', 'https://www.linkedin.com/in/felixpm15/'),
@@ -44,7 +45,7 @@ SOCIAL = (('linkedin', 'https://www.linkedin.com/in/felixpm15/'),
 
 DEFAULT_PAGINATION = False
 
-THEME = "../../pelican-themes/flex"
+THEME = "flex"
 
 CC_LICENSE = {
     'name': 'Creative Commons Attribution-ShareAlike',

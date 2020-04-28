@@ -8,7 +8,7 @@ Summary: Review of PyBites and Python Morsels
 These are both sites that let you practice and hone your Python programming skills.
 
 
-![PyBites]({filename}/images/pybites-free.png)
+![PyBites]({static}/images/pybites-free.png)
 
 
-![Python Morsels]({filename}/images/morsels.png)
+![Python Morsels]({static}/images/morsels.png)
