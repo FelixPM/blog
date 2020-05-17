@@ -16,7 +16,7 @@ that you could search for a specific topic unfamiliar to you and learn it by doi
 advanced, to this end Bites are searchable and they are tagged by the topics and knowledge required to solve them, for 
 example, a “find most common word” Bite is tagged with: list comprehension, Counter and data analysis. 
 
-PyBites encourages you to practice daily by tracking and showing the days you have worked, a method they referer to as 
+PyBites encourages you to practice daily by tracking and showing the days you have worked, a method they refer to as 
 the [Seinfeld's Productivity Secret](https://lifehacker.com/jerry-seinfelds-productivity-secret-281626)
 
 ![PyBites]({static}/images/pybitescalendar.png)
