@@ -5,7 +5,7 @@ from datetime import datetime
 
 AUTHOR = 'Félix Pérez Márquez'
 SITENAME = AUTHOR
-SITEURL = 'http://www.felixpm.cl'
+SITEURL = 'www.felixpm.cl'
 SITETITLE = AUTHOR
 SITESUBTITLE = 'Computer Scientist'
 SITELOGO = "/images/profile.png"
@@ -57,5 +57,11 @@ STATIC_PATHS = ['images']
 
 COPYRIGHT_YEAR = datetime.now().year
 
+MARKUP = ("md", "ipynb")
+
+from pelican_jupyter import markup as nb_markup
+PLUGINS = [nb_markup]
+
+IGNORE_FILES = [".ipynb_checkpoints"]
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
