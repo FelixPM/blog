@@ -1,7 +1,7 @@
 Title: Python online practice challenges
 Date: 2020-04-26
 Modified: 2020-04-26
-Category: Python
+Tags: Python
 Summary: Review of PyBites and Python Morsels
 
 ## My review of *[PyBites](https://codechalleng.es/)* and *[Python Morsels](https://www.pythonmorsels.com/)*.

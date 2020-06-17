@@ -1,7 +1,7 @@
 Title: Writing and deploying (this) Blog
 Date: 2020-05-9
 Modified: 2020-05-16
-Category: Python, Google Cloud Platform, GCP, Pelican, CI/CD
+Tags: Python, Google Cloud Platform, GCP, Pelican, CI/CD
 Summary: How this Blog is written, hosted and deployed
 
 ## Overview

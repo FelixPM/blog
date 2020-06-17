@@ -1,4 +1,4 @@
 Title: Memory recovery with Python requests and scikit-image
 Date: 2020-05-22
-Category: Python, Web scrapping,
+Tags: Python, Web scrapping
 Summary: Downloading 20k pictures and using image similarity metric to recover lost memories.
