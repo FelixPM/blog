@@ -11,7 +11,7 @@ SITESUBTITLE = 'Computer Scientist'
 SITELOGO = "/images/profile.png"
 
 PATH = 'content'
-
+RELATIVE_URLS = False
 TIMEZONE = 'America/Santiago'
 
 DEFAULT_LANG = 'en'
