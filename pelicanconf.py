@@ -5,7 +5,7 @@ from datetime import datetime
 
 AUTHOR = 'Félix Pérez Márquez'
 SITENAME = AUTHOR
-SITEURL = 'http://felixpm.cl'
+SITEURL = 'http://www.felixpm.cl'
 SITETITLE = AUTHOR
 SITESUBTITLE = 'Computer Scientist'
 SITELOGO = "/images/profile.png"
